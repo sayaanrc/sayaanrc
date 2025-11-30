@@ -19,6 +19,15 @@ I enjoy working at the intersection of **physics, algorithms and code** — buil
 
 ---
 
+## Research Experience
+
+- **Visiting Student Researcher**, Raman Research Institute (RRI), Bangalore  
+  *Electro-Optic Polarisation Control Using Nematic Liquid Crystals*  
+  Supervisor: Prof. Arun Roy  
+  Project repository: [Nematic LC Polarisation Control](https://github.com/sayaanrc/nematic-lc-polarisation-control)
+
+---
+
 ###  Skills & Tools
 
 - **Languages:** Python (OOP, Numpy, Scipy, Pandas), LaTeX  
