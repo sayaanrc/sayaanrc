@@ -2,15 +2,15 @@
 
 I'm an MSc Physics student at Jadavpur University with a keen interest in:
 
-- 🧮 Quantum Computing & Quantum Machine Learning  
-- 🧱 Quantum Materials & Computational Material Science  
-- 🔬 Nanoscience and Nanotechnology  
+-  Quantum Computing & Quantum Machine Learning  
+-  Quantum Materials & Computational Material Science  
+-  Nanoscience and Nanotechnology  
 
 I enjoy working at the intersection of **physics, algorithms and code** — building simulations, exploring quantum algorithms, and connecting them to real-world problems like batteries, materials, and photonics.
 
 ---
 
-### 🔭 What I'm doing
+###  What I'm doing
 
 - Implementing **quantum algorithms** (QFT, Grover, QPE, VQE) using Qiskit  
 - Exploring **quantum algorithms for battery electrode optimisation**  
@@ -19,7 +19,7 @@ I enjoy working at the intersection of **physics, algorithms and code** — buil
 
 ---
 
-### 🧰 Skills & Tools
+###  Skills & Tools
 
 - **Languages:** Python (OOP, Numpy, Scipy, Pandas), LaTeX  
 - **Quantum:** Qiskit, Quantum Computing Algorithms, Quantum Simulation  
@@ -28,15 +28,15 @@ I enjoy working at the intersection of **physics, algorithms and code** — buil
 
 ---
 
-### 📂 Quantum Portfolio
+###  Quantum Portfolio
 
 I maintain a curated portfolio of my quantum projects here:
 
-➡️ [**Quantum Portfolio**](https://github.com/<YOUR_USERNAME>/quantum-portfolio)
+ [**Quantum Portfolio**](https://github.com/<YOUR_USERNAME>/quantum-portfolio)
 
 ---
 
-### 🏅 A bit about my background
+###  A bit about my background
 
 - MSc in Physics – Jadavpur University (2025 – Present)  
 - BSc (Hons) in Physics – Maulana Azad College, University of Calcutta (First Class with Distinction)  
@@ -44,7 +44,7 @@ I maintain a curated portfolio of my quantum projects here:
 
 ---
 
-### 📫 Contact
+###  Contact
 
 - Email: **sayaan.rc@gmail.com**  
 
