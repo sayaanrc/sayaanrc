@@ -41,7 +41,7 @@ I enjoy working at the intersection of **physics, algorithms and code** — buil
 
 I maintain a curated portfolio of my quantum projects here:
 
- [**Quantum Portfolio**](https://github.com/<YOUR_USERNAME>/quantum-portfolio)
+ [**Quantum Portfolio**](https://github.com/sayaanrc/quantum-portfolio)
 
 ---
 
