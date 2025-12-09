@@ -15,7 +15,6 @@ I enjoy working at the intersection of **physics, algorithms and code** — buil
 - Implementing **quantum algorithms** (QFT, Grover, QPE, VQE) using Qiskit  
 - Exploring **quantum algorithms for battery electrode optimisation**  
 - Studying **quantum materials & model Hamiltonians**  
-- Preparing for **quantum R&D internships** in India and abroad  
 
 ---
 
@@ -49,7 +48,7 @@ I maintain a curated portfolio of my quantum projects here:
 
 - MSc in Physics – Jadavpur University (2025 – Present)  
 - BSc (Hons) in Physics – Maulana Azad College, University of Calcutta (First Class with Distinction)  
-- Quantum Computing and Programming – QWorld (in collaboration with University of Latvia)  
+- Quantum Computing and Programming Certification – QWorld (in collaboration with University of Latvia)  
 
 ---
 
