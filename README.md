@@ -6,15 +6,15 @@ I'm an MSc Physics student at Jadavpur University with a keen interest in:
 -  Quantum Materials & Computational Material Science  
 -  Nanoscience and Nanotechnology  
 
-I enjoy working at the intersection of **physics, algorithms and code** — building simulations, exploring quantum algorithms, and connecting them to real-world problems like batteries, materials, and photonics.
+I enjoy working at the intersection of **physics, algorithms and code** — building simulations, exploring quantum algorithms, and connecting them to real-world problems like batteries, materials, photonics and so on.
 
 ---
 
-###  What I'm doing
+###  A bit about my background
 
-- Implementing **quantum algorithms** (QFT, Grover, QPE, VQE) using Qiskit  
-- Exploring **quantum algorithms for battery electrode optimisation**  
-- Studying **quantum materials & model Hamiltonians**  
+- MSc in Physics – Jadavpur University (2025 – Present)  
+- BSc (Hons) in Physics – Maulana Azad College, University of Calcutta (First Class with Distinction)  
+- Quantum Computing and Programming Certification – QWorld (in collaboration with University of Latvia)  
 
 ---
 
@@ -44,13 +44,6 @@ I maintain a curated portfolio of my quantum projects here:
 
 ---
 
-###  A bit about my background
-
-- MSc in Physics – Jadavpur University (2025 – Present)  
-- BSc (Hons) in Physics – Maulana Azad College, University of Calcutta (First Class with Distinction)  
-- Quantum Computing and Programming Certification – QWorld (in collaboration with University of Latvia)  
-
----
 
 ###  Contact
 
