@@ -4,7 +4,8 @@ I'm an MSc Physics student at Jadavpur University with a keen interest in:
 
 -  Quantum Computing & Quantum Machine Learning  
 -  Quantum Materials & Computational Material Science  
--  Nanoscience and Nanotechnology  
+-  Nanoscience and Nanotechnology
+-  Quantum Soft Condensed Matter Physics
 
 I enjoy working at the intersection of **physics, algorithms and code** — building simulations, exploring quantum algorithms, and connecting them to real-world problems like batteries, materials, photonics and so on.
 
